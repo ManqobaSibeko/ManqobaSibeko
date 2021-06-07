@@ -37,9 +37,9 @@
 
  ### 😜fun facts about me:
 
+✔ I've been single for close to five years now 😎<br>
 ✔ I Always try to learn something new and then sleep till it store in the brain 😊 <br>
 ✔ I’m currently learning docker and kubernetes <br>
-✔ I've been single for close to five years now 😎<br>
 ✔ I’m looking to collaborate on <strong>full-stack Web Dev Projects</strong> 🔍<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 
