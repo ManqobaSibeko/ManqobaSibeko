@@ -38,19 +38,15 @@
 *** Fun Facts About me ....***
 
 ✔ I Always try to learn something new and then sleep till it store in the brain 😊 <br>
-✔  I’m currently learning docker and kubernetes 
-✔ I’m currently learning about **AI intellengence**🥰<br>
+✔ I’m currently learning docker and kubernetes <br>
+✔ I've been single for close to five years now 😎<br>
 ✔ I’m looking to collaborate with any **Open - Source data science projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
+
  
 
 
-### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
-<img src="https://img.shields.io/badge/manqsibeko@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="manqsibeko@gmail.com">    <a href="https://www.linkedin.com/in/manqoba-sibeko-a55019104/"><img src="https://img.shields.io/badge/manqoba sibeko-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  href="https://twitter.com/ManqobaSibekoQh"><img src="https://img.shields.io/badge/manqoba Sibeko-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-
----
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Languages and Tools...***  🛠 
 
@@ -60,6 +56,11 @@
 
 
 <br/>
+
+---
+### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
+
+<img src="https://img.shields.io/badge/manqsibeko@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="manqsibeko@gmail.com">    <a   target="_blank" href="https://www.linkedin.com/in/manqoba-sibeko-a55019104/"><img src="https://img.shields.io/badge/manqoba sibeko-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  target="_blank" href="https://twitter.com/ManqobaSibekoQh"><img src="https://img.shields.io/badge/manqoba Sibeko-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 ---
 
