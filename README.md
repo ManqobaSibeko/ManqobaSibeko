@@ -35,7 +35,7 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-*** Fun Facts About me ....***
+ ### 😜fun facts about me:
 
 ✔ I Always try to learn something new and then sleep till it store in the brain 😊 <br>
 ✔ I’m currently learning docker and kubernetes <br>
