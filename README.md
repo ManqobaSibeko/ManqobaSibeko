@@ -57,7 +57,13 @@
 
 <br/>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManqobaSibeko&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ManqobaSibeko&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
+
+
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 
 <img src="https://img.shields.io/badge/manqsibeko@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="manqsibeko@gmail.com">    <a   target="_blank" href="https://www.linkedin.com/in/manqoba-sibeko-a55019104/"><img src="https://img.shields.io/badge/manqoba sibeko-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  target="_blank" href="https://twitter.com/ManqobaSibekoQh"><img src="https://img.shields.io/badge/manqoba Sibeko-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
@@ -68,10 +74,4 @@
  ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-----</p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ManqobaSibeko&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ManqobaSibeko&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
