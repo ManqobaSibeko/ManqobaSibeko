@@ -27,7 +27,7 @@
   <em>
     Hello, I am Manqoba Sibeko a <b>final year</b> undergraduate at <a href="https://www.vut.ac.za/"> <b> Vaal University of Technology</b>, in South Africa  (Your world to a better future)</a>. <br>
     <b>a computer systems enogineering student</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b> passionate aspiring full stack developer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>web development</b> and always looking to find solutions to gain relevant skills
+    with <b>web development</b> and always looking to find ways to gaining relevant skills
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
