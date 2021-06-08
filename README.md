@@ -38,7 +38,7 @@
  ### 😜fun facts about me:
 
 ✔ I've been single for close to five years now 😎<br>
-✔ I Always try to learn something new and then sleep till it store in the brain 😊 <br>
+✔ I always try to learn something new and then sleep till it store in the brain 😊 <br>
 ✔ I’m currently learning Devops tools just for fun <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> <br>
 ✔ I’m looking to collaborate on <strong>full-stack Web Dev Projects</strong> 🔍<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
