@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Manqoba Sibeko </h1>
 <h3 align="center">Aspiring Full Stack developer </h3>
+<h3 align="center" target =_blank ><a href="https://manqobasibeko.github.io/my-website/index" target="_blank">Visit My Personal Website</a>  </h3>
 </p>
 
 
@@ -28,6 +29,7 @@
     Hello, I am Manqoba Sibeko a <b>final year</b> undergraduate at <a href="https://www.vut.ac.za/"> <b> Vaal University of Technology</b>, in South Africa  (Your world to a better future)</a>. <br>
     <b>a computer systems enogineering student</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b> passionate aspiring full stack developer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>web development</b> and always looking to find ways of gaining relevant skills
+    <h3 align="center" target =_blank ><a href="https://manqobasibeko.github.io/my-website/index" target="_blank">Visit My Personal Website</a>  </h3>
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -43,7 +45,7 @@
 ✔ I’m looking to collaborate on <strong>full-stack Web Dev Projects</strong> 🔍<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 
- 
+
 
 
 
