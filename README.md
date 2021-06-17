@@ -44,6 +44,7 @@
 ✔ I’m currently learning Devops tools just for fun <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> <br>
 ✔ I’m looking to collaborate on <strong>full-stack Web Dev Projects</strong> 🔍<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+<h3 target =_blank ><a href="https://manqobasibeko.github.io/my-website/index" target="_blank">Visit My Personal Website</a>  </h3>
 
 
 
@@ -70,10 +71,14 @@
 
 <img src="https://img.shields.io/badge/manqsibeko@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="manqsibeko@gmail.com">    <a   target="_blank" href="https://www.linkedin.com/in/manqoba-sibeko-a55019104/"><img src="https://img.shields.io/badge/manqoba sibeko-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   <a  target="_blank" href="https://twitter.com/ManqobaSibekoQh"><img src="https://img.shields.io/badge/manqoba Sibeko-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 
+<h3 align="center" target =_blank ><a href="https://manqobasibeko.github.io/my-website/index" target="_blank">Visit My Personal Website</a>  </h3>
+
 ---
 
   
  ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<h3 align="center" target =_blank ><a href="https://manqobasibeko.github.io/my-website/index" target="_blank">Visit My Personal Website</a>  </h3>
 
  
