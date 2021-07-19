@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Manqoba Sibeko </h1>
-<h3 align="center">Aspiring Full Stack developer </h3>
+<h3 align="center">Aspiring software engineer </h3>
 <h3 align="center" target =_blank ><a href="https://manqobasibeko.github.io/my-website/index" target="_blank">Visit My Personal Website</a>  </h3>
 </p>
 
